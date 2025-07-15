@@ -1,5 +1,5 @@
-name: Daily Job Search Email
-  on:
+
+  on: 
      schedule:
        - cron: '0 6 * * *'  # Runs every day at 6 AM UTC (~11:30 AM IST)
 
