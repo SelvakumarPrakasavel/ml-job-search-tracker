@@ -19,5 +19,5 @@ jobs:
       - name: Run job search
         run: python job_search_emailer.py
         env:
-          EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_USER: ${{ secrets.selvakumarprakasavel@gmail.com }}
+          EMAIL_PASS: ${{ secrets.lgtk aprpw ajlp ltka }}
