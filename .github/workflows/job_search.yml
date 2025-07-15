@@ -1,7 +1,7 @@
 name: Daily Job Search Email
   on
      schedule
-    - cron: '0 6 * * *'  # Runs every day at 6 AM UTC (~11:30 AM IST)
+       - cron: '0 6 * * *'  # Runs every day at 6 AM UTC (~11:30 AM IST)
 
 jobs:
   search_and_email:
